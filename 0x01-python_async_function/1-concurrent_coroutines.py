@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+'''Async basics in Python task 1'''
 import asyncio
 from typing import List
 
